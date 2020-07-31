@@ -58,7 +58,11 @@ Any member of the Staff who loses their good standing shall be subject to a prob
 
 For the purposes of the High Council, the following conditions may see a member lose their good standing as a member of the Staff:
 * Consecutively miss three (3) regular staff meetings with failure to provide update within two (2) days of the meeting.
-* Remove any Member from the Clan without cause.
+* Inactivity in the community for a duration greater than thirty (30) days, as defined by last message or last date seen online, whichever is greater.
+* Inactivity in-game for a duration greater than one-hundred-eighty (180) Days, as determined by date of last XP gain.
+
+The following may see a member of the Staff demoted immediately, pending investigation:
+* Removal of any Member from the Clan without cause.
 * Theft or unilateral destruction of any Clan goods or properties, whether in-game or not.
 
 ## Section 4 - Code of Conduct
