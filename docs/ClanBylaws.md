@@ -106,9 +106,9 @@ In any instance where there are not enough eligible volunteers to form the Commi
 No members of the Staff or of the Membership involved in the dispute shall be eligible to sit on a committee.  
 
 ## Section 2 - Amendments
-Amendments to these bylaws may be initiated by a motion during regular Clan business. Should the motion pass, a committee of three or more Members will be appointed to propose the change. Any proposed amendment shall be made visible to all Members for a duration no shorter than two (2) months before being put to vote.  
+Amendments to these bylaws may be initiated by a motion during regular Clan business. Should the motion pass, a committee of three or more Members will be appointed to propose the change. Any proposed amendment shall be made visible to all Members for a duration no shorter than one (1) month before being put to vote.  
 
-Voting shall commence during regular Clan business following the minimum duration stated above. A majority vote by the Membership is required to pass the amendment.
+Voting shall commence during regular Clan business following the minimum duration stated above. A simple majority vote by the Membership is required to pass the amendment.
 
 # Article VII - Policies and Procedures
 Additional policies and procedures may be developed and maintained by the High Council and shall be published to the Guilded page of the Clan. Any such documents are subject to approval by a simple majority of the Membership during normal Clan business.
