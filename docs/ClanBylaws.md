@@ -43,7 +43,7 @@ It shall be the duty of the High Council to implement the system, and the duty o
 For the purpose of maintaining activity and engagement with the Membership, the Staff, either individually or collectively, shall organize and host regular events. Any member of the Staff involved in the planning, organizing, or hosting of an event is ineligible for any prizes or rewards associated with said event.
 
 ### Subsection C - Clan Citadel
-For the purpose of maintaining an in-game home for the Clan, the Staff shall orchestrate upgrades and construct realistic goals in accordance to the planned upgrades to the Clan Citadel. As such, all Staff are expected to maintain fealty at the Clan Citadel.
+For the purpose of maintaining an in-game home for the Clan, the Staff shall orchestrate upgrades and construct realistic goals in accordance to the planned upgrades to the Clan Citadel. As such, all Staff are expected--but not required--to maintain fealty at the Clan Citadel.
 
 ## Section 3 - Remaining in Good Standing
 All members of the Clan must remain in "good standing" with the clan. Upon joining, good standing may only be lost by meeting one or more of the following conditions:
@@ -56,10 +56,10 @@ All members of the Staff shall be held to additional standards to ensure their a
 
 Any member of the Staff who loses their good standing shall be subject to a probationary period lasting no more than one (1) month and attend a special probationary meeting before the High Council prior to regaining their good standing. Any member of the Staff who fails to regain their good standing after the probationary period shall be stripped of their position, relegated to the rank of General, and barred from regaining a position among the Staff for no less than two (2) months.   
 
-For the purposes of the High Council, the following conditions may see a member lose their good standing as a member of the Staff:
+For the purposes of the High Council, the following conditions--in addition to the conditions laid out in Article IV.3 about Member good standing--may see a member lose their good standing as a member of the Staff:
 * Consecutively miss three (3) regular staff meetings with failure to provide update within two (2) days of the meeting.
-* Inactivity in the community for a duration greater than thirty (30) days, as defined by last message or last date seen online, whichever is greater.
-* Inactivity in-game for a duration greater than one-hundred-eighty (180) Days, as determined by date of last XP gain.
+* Inactivity as defined by Article V.1 of the Code of Conduct.
+* Breach of Staff Trust as defined by Article V.2 of the Code of Conduct.
 
 The following may see a member of the Staff demoted immediately, pending investigation:
 * Removal of any Member from the Clan without cause.
@@ -95,7 +95,7 @@ Special Staff Meetings may be called to vote upon resolutions or discuss busines
 ### Subsection B - High Council Meetings
 A High Council meeting shall be held no less frequently than bi-monthly. The meeting shall be exclusive to members of the High Council. These meetings shall be compulsary, and scheduled with a minimum of three (3) days warning. The purpose of the meeting shall be disclosed upon scheduling.  
 
-### Subsection C - Additional Meetings
+## Section 3 - Additional Meetings
 Additional meetings may be scheduled as needed. Meetings which are compulsary for some or all individuals must include a meeting agenda and notice no fewer than three (3) days prior to the event. Meetings which are noncompulsary in their entirety require no agenda or notice. 
 
 # Article VI - Bylaw Interpretation and Amendments
