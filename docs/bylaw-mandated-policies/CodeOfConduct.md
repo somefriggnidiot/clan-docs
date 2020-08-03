@@ -29,9 +29,12 @@ At the end of the day, we're all just here to have fun in a game. While we recog
 We also understand that not everybody can always get along. While disagreements are bound to happen, do not let them spill out into public settings. The Staff are more than happy to address your concerns privately, as doing so allows a more focused discussion and a more efficient resolution.
 
 # Article IV - Out-Of-Game Communications
-Celestial Brothers uses various out-of-game resources which may provide ways for Members to communicate either publicly or among each other. Member conduct on these resources is still beholden to the Code where applicable, and may fall subject to additional policy.
+[CLANNAME] uses various out-of-game resources which may provide ways for Members to communicate either publicly or among each other. Member conduct on these resources is still beholden to the Code where applicable, and may fall subject to additional policy.
 
-## Section 1 - Conduct in Voice Chats
+## Section 1 - Official Social Platform
+To maintain an organized and active community in-game and out-of-game, the Clan shall use the social platform of Guilded to allow out-of-game communications.
+
+## Section 2 - Conduct in Voice Chats
 When using voice chats, please continue to be mindful of those around. Whenever possible, use push-to-talk as your method of transmitting voice. Disruptive behaviors (such as excessive background noise, mumbling self-narratives, overuse of soundboards, and "second-hand audio") may result in disciplinary action or people avoiding you.
 
 # Article V - Staff Expectations
@@ -43,5 +46,10 @@ Staff may lose their status as "in good standing" with regards to their position
 * Inactivity in-game for greater than sixty (60) days, as defined by the most recent date of experience gain in-game.
 * Inactivity on the Clan's official social platform for greater than thirty (30) days, as defined by the greater of either the date of their last message or the date they were last seen online.
 
-## Section 2 - Moderation
-All moderation actions taken by Staff members must be done in a fair and impartial manner. Punitive actions against members should always be reported in a general staff channel, including the action, target, and reason, to ensure partiality and transparency.
+## Section 2 - Staff Trust
+Staff Trust is the idea that our Members and guests should be able to trust our Staff to act when necessary, to the appropriate extent, and with proper procedure. Staff Trust is built through fairness and professionalism, and lost when lacking transparency and communication. It is important to us that our Staff can be trusted.
+
+## Section 3 - Moderation 
+All moderation actions taken by Staff members must be done in a fair and impartial manner. Moderation actions against members should always be reported in a general staff channel, including the action, target, and reason, to ensure partiality and transparency.   
+Moderation actions shall be defined as the moving, muting, kicking, or banning of a user either in-game or on the Clan's official social platform; or the movement, locking, or removal of a user's content either in-game or on the Clan's official social platform.  
+Using a moderation action against a user should always be justified either on the content being removed, or in a general staff channel. Failure to do so at the time the action was taken may be seen as a breach of Staff Trust.
