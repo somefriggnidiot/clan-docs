@@ -7,9 +7,11 @@ The objective of the Clan shall be to develop a collaborative environment and fo
 # Article III - Structure
 The Clan shall be made up of members and governed by two tiers of officers ("the Staff.") The lower tier of the Staff shall be known as the "Low Council" and the upper tier shall be known as the "High Council." 
 ## Section 1 - High Council
-The High Council shall consist of the Owner of the Clan and all members holding the "Deputy Owner" rank in-game. The amount of members in the High Council, with the Omission of the owner, shall number no greater than 2% of the total membership.  
+The High Council shall consist of the Owner of the Clan and all members holding the "Deputy Owner" rank in-game.  
 
-Members may be appointed to the High Council by existing High Council members and approved by a majority of no less than 75% of the Staff during regular Clan business or regular Staff business. Appointment of a High Council member must be approved through vote by the Staff within no more than fourteen (14) days.
+Members may be appointed to the High Council by existing High Council members and approved by a majority of no less than 75% of the Staff during regular Clan business or regular Staff business. Appointment of a High Council member must be approved through vote by the Staff within no more than fourteen (14) days.   
+
+No Member may be appointed to the High Council if doing so would cause the amount of members in the High Council, with the omission of the Owner, to number greater than 2% of the total membership.
 ## Section 2 - Low Council
 The Low Council shall consist of all members of the Clan holding the in-game ranks of Administrator, Organiser, Coordinator, or Overseer.  
 
