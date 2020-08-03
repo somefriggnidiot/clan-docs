@@ -11,7 +11,7 @@ The High Council shall consist of the Owner of the Clan and all members holding 
 
 Members may be appointed to the High Council by existing High Council members and approved by a majority of no less than 75% of the Staff during regular Clan business or regular Staff business. Appointment of a High Council member must be approved through vote by the Staff within no more than fourteen (14) days.   
 
-No Member may be appointed to the High Council if doing so would cause the amount of members in the High Council, with the omission of the Owner, to number greater than 2% of the total membership.
+No Member may be appointed to the High Council if doing so would cause the amount of members in the High Council, with the omission of the Owner, to number greater than 2% of the total membership.  
 ## Section 2 - Low Council
 The Low Council shall consist of all members of the Clan holding the in-game ranks of Administrator, Organiser, Coordinator, or Overseer.  
 
@@ -28,13 +28,20 @@ Anybody may become a Member of the Clan so long as they are in good standing wit
 During normal Clan business, any Member may put forth a motion to be seconded and voted upon by the present Membership. Any motion put forth by a Member, prior to vote, may be put on hold pending further clarification for no longer than one (1) month by a Staff vote or declaration of a single member of the High Council.
 
 ### Subsection A - Quorums
-For the purpose of any business of the Clan to be enacted, the following quorums must be met:
+For any business of the Clan to be enacted, the following quorums must be met:
 * For votes of the Membership, a quorum of 5% of active players, of which any amount may consist of the Membership or the Staff.
 * For votes of the Staff, a quorum of 20%, of which any amount may consist of Low Council or High Council officers.
 * For votes of the High Council, a quorum of 60%.
 
-## Section 2 - Responsibilities of the Staff
-The Staff shall guide and maintain the Clan on its path to fulfil its Objective. It shall be the purpose of the High Council to ensure the availability of proper tooling and support for the Low Council, while also assuming the same responsibilities when appropriate.
+## Section 2 - Responsibilities of the High Council
+The High Council shall be charged with interpreting, enforcing, and maintaining these Bylaws and any associated documentation for the Clan.  
+The High Council shall ensure the availability of proper tooling and support for the Low Council, while simultaneously assuming the same responsibilities of the Low Council when necessary or appropriate. 
+
+## Section 3 - Responsibilities of the Low Council
+The Low Council shall be charged with the daily operations of the clan, including: ensuring rank changes are applied when and where appropriate, disseminating information regarding upcoming events or recent announcements, and assisting in the design and hosting of events.
+
+## Section 4 - Responsibilities of All Staff
+The Staff shall guide and maintain the Clan on its path to fulfil its Objective. In addition to the duties charged to each individual tier of the Staff, the subsections outlined within shall be the responsibility of all Staff at any given time.   
 
 ### Subsection A - Point Tracking
 For the purpose of maintaining a fair and structured system for earning ranks in-game, the Clan shall implement and adhere to a system to track activities, assign point values to activities, and establish the point-value thresholds upon which ranks are received.  
@@ -45,9 +52,9 @@ It shall be the duty of the High Council to implement the system, and the duty o
 For the purpose of maintaining activity and engagement with the Membership, the Staff, either individually or collectively, shall organize and host regular events. Any member of the Staff involved in the planning, organizing, or hosting of an event is ineligible for any prizes or rewards associated with said event.
 
 ### Subsection C - Clan Citadel
-For the purpose of maintaining an in-game home for the Clan, the Staff shall orchestrate upgrades and construct realistic goals in accordance to the planned upgrades to the Clan Citadel. As such, all Staff are expected--but not required--to maintain fealty at the Clan Citadel.
+For the purpose of maintaining an in-game home for the Clan, the Staff shall orchestrate upgrades and construct realistic goals in accordance to the planned upgrades to the Clan Citadel. As such, while not required to maintain their position, all Staff are expected to maintain fealty at the Clan Citadel.
 
-## Section 3 - Remaining in Good Standing
+## Section 5 - Remaining in Good Standing
 All members of the Clan must remain in "good standing" with the clan. Upon joining, good standing may only be lost by meeting one or more of the following conditions:
 * Commit any such transgressions against the Jagex player code of conduct which result in the suspension of your account.
 * Commit any such transgressions against the rules of the Clan or the Clan's Code of Conduct which result in your immediate removal from the Clan.
@@ -67,7 +74,7 @@ The following may see a member of the Staff demoted immediately, pending investi
 * Removal of any Member from the Clan without cause.
 * Theft or unilateral destruction of any Clan goods or properties, whether in-game or not.
 
-## Section 4 - Code of Conduct
+## Section 6 - Code of Conduct
 All members of the Clan shall be held to a general Code of Conduct as set forth and maintained by the High Council.
 
 # Article V - Meetings
