@@ -109,7 +109,7 @@ Additional meetings may be scheduled as needed. Meetings which are compulsary fo
 
 # Article VI - Bylaw Interpretation and Amendments
 ## Section 1 - Interpretation
-These bylaws shall be interpreted by the Owner with counsel by the High Council. Any member may challenge this interpretation during regular Clan business by regular motion. Should the dispute remain unresolved, an ad-hoc committee shall be formed to determine the proper interpretation. The ad-hoc committee shall consist of the following composition:
+These bylaws shall be interpreted by the Owner with counsel by the High Council. Any member may challenge this interpretation during regular Clan business by regular motion. Should the dispute remain unresolved, an ad-hoc committee shall be formed to determine the proper interpretation and propose an amendment for clarification. The ad-hoc committee shall consist of the following composition:
 * one (1) member of the Low Council by volunteer, to sit as Committee Chairman  
 * three (3) members of the Clan by volunteer, of which none may be members of the Staff  
 
@@ -118,10 +118,12 @@ In any instance where there are not enough eligible volunteers to form the Commi
 
 No members of the Staff or of the Membership involved in the dispute shall be eligible to sit on a committee.  
 
-## Section 2 - Amendments
-Amendments to these bylaws may be initiated by a motion during regular Clan business. Should the motion pass, a committee of three or more Members will be appointed to propose the change. Any proposed amendment shall be made visible to all Members for a duration no shorter than one (1) month before being put to vote.  
+## Section 2 - Amendmending These Bylaws
+Any change to the wording or phrasing of these Bylaws must be initiated by a motion during regular Clan business. Any proposed amendment shall be made visible to all Members for a duration no shorter than two (2) weeks before being put to vote.  
 
-Voting shall commence during regular Clan business following the minimum duration stated above. A simple majority vote by the Membership is required to pass the amendment.
+Voting shall commence during regular Clan business following the minimum duration stated above. A simple majority vote by the Membership is required to pass the amendment. If no quorum can be reached after two (2) weeks, the amendment may be passed with 75% approval by Staff vote.  
+
+Minor changes to formatting or to correct spelling may be carried out by a member of the High Council with a simple majority vote of the High Council.  
 
 # Article VII - Policies and Procedures
-Additional policies and procedures may be developed and maintained by the High Council and shall be published to the Guilded page of the Clan. Any such documents are subject to approval by a simple majority of the Membership during normal Clan business.
+Additional policies and procedures may be developed and maintained by the High Council and shall be published to the Guilded server of the Clan in a publicly viewable channel. Any such documents are subject to approval by a simple majority of the Membership during normal Clan business. If no quorum can be reached after two (2) weeks, the amendment may be passed with 75% approval by Staff vote.
