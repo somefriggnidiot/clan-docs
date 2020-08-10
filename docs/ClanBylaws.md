@@ -98,10 +98,10 @@ The meeting shall exist for the following purposes:
 
 Staff Update Meetings may occur asynchronously, in which case all Staff are to post their updates to the location specified upon scheduling no later than twenty-four (24) hours after the scheduled end to the meeting.
 
-### Subsection A - Special Staff Meetings
+### Subsection B - Special Staff Meetings
 Special Staff Meetings may be called to vote upon resolutions or discuss business pertaining to the members of the Staff. These meetings shall be compulsary, and scheduled with a minimum of seven (7) days warning. The purpose of the meeting shall be disclosed upon scheduling.
 
-### Subsection B - High Council Meetings
+### Subsection C - High Council Meetings
 A High Council meeting shall be held no less frequently than bi-monthly. The meeting shall be exclusive to members of the High Council. These meetings shall be compulsary, and scheduled with a minimum of three (3) days warning. The purpose of the meeting shall be disclosed upon scheduling.  
 
 ## Section 3 - Additional Meetings
