@@ -1,5 +1,5 @@
 # Article I - Organization Definition
-The name of this organization shall be "[CLANNAME]." [CLANNAME] ("the Clan" or "[CLANINITIALS]") is a private, unregistered organization.
+The name of this organization shall be "Always Moving Forward." Always Moving Forward ("the Clan", "AMF", or "A M F") is a private, unregistered organization.
 
 # Article II - Objective
 The objective of the Clan shall be to develop a collaborative environment and foster the growth of players within the game of RuneScape 3 ("RS" or "in-game".)
